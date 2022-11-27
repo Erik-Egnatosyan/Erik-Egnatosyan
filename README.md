@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="auto" height="auto" src="https://files.catbox.moe/36as6f.png">
+<img align="center" alt="Coding" width="100%" height="auto" src="https://i.pinimg.com/originals/65/3e/1a/653e1aee1def426fffbc3204147e23aa.gif">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erik-Egnatosyan&show_icons=true&theme=radical)
 
