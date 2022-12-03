@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="100%" height="auto" src="Pixelated (1).gif">
+<img align="center" alt="Coding" width="100%" height="auto" src="Pixelated.mp4">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erik-Egnatosyan&show_icons=true&theme=radical)
 
