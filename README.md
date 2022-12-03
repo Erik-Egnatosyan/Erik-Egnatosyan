@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="100%" height="auto" src="Pixelated.mp4">
+<img align="center" alt="Coding" width="100%" height="auto" src="The process is more important than the result!.gif">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erik-Egnatosyan&show_icons=true&theme=radical)
 
