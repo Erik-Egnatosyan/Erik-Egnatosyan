@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [https://files.catbox.moe/flrxq4.pdf](https://files.catbox.moe/flrxq4.pdf)
 
-- 🔭 I’m currently working on [Codenyx](https://www.codenyx.xyz/)
+- 🔭 I’m currently working on [Codenyx](https://www.codenyx.am/)
 
 - 📫 How to reach me **sans.egnatosyan@gmail.com**
 
