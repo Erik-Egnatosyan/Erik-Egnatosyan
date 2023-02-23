@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Erik-Egnatosyan?tab=repositories](https://github.com/Erik-Egnatosyan?tab=repositories)
 
-- 📄 Know about my experiences [https://files.catbox.moe/flrxq4.pdf](https://files.catbox.moe/qz12ny.pdf)
+- 📄 Know about my experiences https://files.catbox.moe/qz12ny.pdf
 
 - 🔭 I’m currently working on [Codenyx](https://www.codenyx.am/)
 
