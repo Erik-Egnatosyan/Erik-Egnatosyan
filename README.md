@@ -21,14 +21,10 @@
 
 ---
 <h1 align="left">📊 Statistics:</h1>
-<table>
-  <tr>
-    <td>
+
     
-![Metrics](https://metrics.lecoq.io/Erik-Egnatosyan?template=classic&base.header=0&base.activity=0&base.community=0&isocalendar=1&achievements=1&pagespeed=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&pagespeed=false&pagespeed.url=www.codenyx.am&pagespeed.detailed=true&pagespeed.screenshot=false&pagespeed.pwa=false&config.timezone=Asia%2FYerevan&config.display=large)
-    
-  </tr>
-</table>
+![Metrics](https://metrics.lecoq.io/Erik-Egnatosyan?template=classic&base.header=0&base.activity=0&base.community=0&isocalendar=1&achievements=1&pagespeed=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&pagespeed=false&pagespeed.url=www.codenyx.am&pagespeed.detailed=true&pagespeed.screenshot=false&pagespeed.pwa=false&config.timezone=Asia%2FYerevan&config.display=columns)
+
 
 ---
 <h1>Codenyx page status⚙🌐</h1>
