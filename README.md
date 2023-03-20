@@ -14,15 +14,21 @@
 - 🌱 I’m currently learning **C#**
 
 - 💬 Ask me about **HTML,CSS,JS,C#**
-
 ---
 <h1 align="left">🧰Languages and Tools:</h1>
 <p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a><img src="https://seeklogo.com/images/C/codepen-logo-1B85489666-seeklogo.com.png" alt="codepen" width="40" height="40"/> </a> <a href="https://codepen.io/SansaciaCodenyx" target="_blank" rel="noreferrer"> </p>
 
 ---
-<h1 align="left">📊 Statistics:</h1>
+<h1 align="left">📊Statistics:</h1>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user={erik-egnatosyan}&theme=radical">
+<div align="left">
+    <img src="https://github-profile-trophy.vercel.app/?username=Erik-Egnatosyan&theme=radical&rank=SECRET,SSS,SS,S,AAA,AA,A,B&row=2&column=3&margin-w=15"/>
+</div>
 
-![Metrics](https://metrics.lecoq.io/Erik-Egnatosyan?template=classic&base.header=0&base.activity=0&base.community=0&isocalendar=1&achievements=1&pagespeed=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&pagespeed=false&pagespeed.url=www.codenyx.am&pagespeed.detailed=true&pagespeed.screenshot=false&pagespeed.pwa=false&config.timezone=Asia%2FYerevan&config.display=columns)
+---
+<h1 align="left">🎧Music:</h1>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31dnlbytu66fm4vgj3sserfkucqa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 <h1>Codenyx page status⚙🌐</h1>
@@ -36,3 +42,4 @@
 <a href="https://instagram.com/erikegnatosyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="erikegnatosyan" height="30" width="40" /></a>
 <a href="https://discord.gg/Need ᵢNFₒᵣMₐTᵢₒN#4908" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Need ᵢNFₒᵣMₐTᵢₒN#4908" height="30" width="40" /></a>
 </p>
+ 
