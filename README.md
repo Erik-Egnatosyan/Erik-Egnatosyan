@@ -1,6 +1,4 @@
-<img align="center" alt="Coding" width="100%" height="auto" src="The process is more important than the result!.gif">
-
-<h1 align="center">Hi 👋, I'm <span>Erik 🐱‍💻</span></h1>
+![Header](./github-profile-theme.png)
 <h3 align="left">I am a frontend developer from Armenia.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Erik-Egnatosyan?tab=repositories](https://github.com/Erik-Egnatosyan?tab=repositories)
@@ -24,11 +22,6 @@
 <div align="left">
     <img src="https://github-profile-trophy.vercel.app/?username=Erik-Egnatosyan&theme=radical&rank=SECRET,SSS,SS,S,AAA,AA,A,B&row=2&column=3&margin-w=15"/>
 </div>
-
----
-<h1 align="left">🎧Music:</h1>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31dnlbytu66fm4vgj3sserfkucqa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 <h1>Codenyx page status⚙🌐</h1>
