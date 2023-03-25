@@ -18,6 +18,9 @@
 
 ---
 <h1 align="left">📊Statistics:</h1>
+
+![Header](./github-metrics.svg)
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user={erik-egnatosyan}&theme=radical">
 <div align="left">
     <img src="https://github-profile-trophy.vercel.app/?username=Erik-Egnatosyan&theme=radical&rank=SECRET,SSS,SS,S,AAA,AA,A,B&row=2&column=3&margin-w=15"/>
