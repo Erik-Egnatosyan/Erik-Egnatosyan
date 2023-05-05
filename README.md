@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sans.egnatosyan@gmail.com**
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **C# ASP .NET**
 
 - 💬 Ask me about **HTML,CSS,JS,C#**
 ---
