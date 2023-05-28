@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Erik-Egnatosyan?tab=repositories](https://github.com/Erik-Egnatosyan?tab=repositories)
 
-- 📄 Know about my experiences https://files.catbox.moe/2b6sem.pdf
+- 📄 Know about <a href="https://filebin.net/ns789vydul6jw3g7/Erik_Egnatosyan_CS_.NET_CORE.pdf">my experiences (CV)</a>
 
 - 🔭 I’m currently working on [Codenyx](https://www.codenyx.am/)
 
