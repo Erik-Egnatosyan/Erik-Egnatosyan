@@ -1,4 +1,4 @@
-![Header](./github-profile-theme.png)
+![Header](./your-header-image-name.png)
 <h3 align="left">I am a frontend developer from Armenia.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Erik-Egnatosyan?tab=repositories](https://github.com/Erik-Egnatosyan?tab=repositories)
