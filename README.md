@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [Codenyx](https://www.codenyx.am/)
 
-- 📫 How to reach me **sans.egnatosyan@gmail.com**
+- 📫 How to reach me **erikegnatosyan@gmail.com**
 
-- 🌱 I’m currently learning **C# ASP .NET**
+- 🌱 I’m currently learning **C# ASP .NET MVC**
 
 - 💬 Ask me about **HTML,CSS,JS,C#**
 ---
