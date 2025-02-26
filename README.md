@@ -3,7 +3,7 @@
 
 - 👨‍💻 Explore all of my projects on [GitHub](https://github.com/Erik-Egnatosyan?tab=repositories)
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1zdeXdyVvaTIv3MPw_G0aDiC0_AqqNsjh/view?usp=sharing)</a>
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1mB6xRGstMxrFtiUCnoJvPiY-JwvuOTPf/view?usp=sharing)</a>
 
 - 🔭 Currently contributing as a Software Engineer at [Globbing](https://am.globbing.com/en)
 
